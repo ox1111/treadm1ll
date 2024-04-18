@@ -2,6 +2,15 @@
 # treadm1ll
 You don't need to be as fast as [lightspeed](https://www.synacktiv.com/posts/exploit/lightspeed-a-race-for-an-iosmacos-sandbox-escape.html), but a run on a treadm1ll surely doesn't hurt.
 
+## 저자 commnet
+
+Didn't plan to release it like this, but i'm now busy with other stuff and probably not gonna come back to this project.
+
+tfp0 exploit which *should* work up to 11.4.1 on headphonejack-devices.
+
+Didn't finish cleanup, but maybe it's still useful .
+
+
 ---
 Since i'm now busy with other stuff and likely not gonna come back to this
 here is my unfinished exploit:
