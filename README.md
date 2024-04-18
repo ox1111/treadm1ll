@@ -25,3 +25,7 @@ only for phones with headphone jack
 
 A great writeup by Luca Moro (johncool) on the bug can be found here:  
 [https://www.synacktiv.com/posts/exploit/lightspeed-a-race-for-an-iosmacos-sandbox-escape.html](https://www.synacktiv.com/posts/exploit/lightspeed-a-race-for-an-iosmacos-sandbox-escape.html)
+
+
+
+![1번 이미지](./2.jpeg)
